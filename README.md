@@ -1,5 +1,5 @@
 # Hi there, I'm Syed Basit Raza! 👋  
-🚀 **Flutter Developer | Software Engineer**  
+🚀 **Software Engineer - Mobile**  
 
 ## 🛠 Tech Stack & Skills
 - **Mobile Development:** Flutter (Dart), Provider, Bloc, Redux, GetX
@@ -22,14 +22,13 @@
 
 
 ## 📚 Learning & Certifications
-✅ **Go Programming** - Zero To Mastery
-✅ **Fundamentals of Backend Engineering** - Hussein Nasser(Udemy)
-✅ **Flutter & Dart - The Complete Guide** - Academind(Udemy)
+- ✅ **Go Programming** - Zero To Mastery
+- ✅ **Fundamentals of Backend Engineering** - Hussein Nasser(Udemy)
+- ✅ **Flutter & Dart - The Complete Guide** - Academind(Udemy)
 
 ## 🚀 Projects & Contributions  
 - **[Blind 75 LeetCode in Dart]([https://github.com/yourrepo](https://github.com/BasitRaza228/dart-leetcode-blind75))** - Solving top interview problems in Dart  
 - **Flutter Packages** - Creating useful open-source Flutter libraries  
 
 ## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/basit228/)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:basitraza228@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/basit228/) [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:basitraza228@gmail.com)
