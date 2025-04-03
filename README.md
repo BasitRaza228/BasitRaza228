@@ -2,7 +2,7 @@
 🚀 **Software Engineer - Mobile**  
 
 ## 🛠 Tech Stack & Skills
-- **Mobile Development:** Flutter (Dart) -> Provider, Bloc, Redux, GetX
+- **Mobile Development:** Flutter (Dart) - State Management: Provider, Bloc, Redux, GetX
 - **Backend:** Go (Golang), Node.js, Express.js
 - **Databases:** SQLite, MySQL, Firestore  
 - **Tools and Technologies:** Firebase, Socket.io, Agora, AWS
