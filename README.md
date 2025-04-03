@@ -31,4 +31,4 @@
 - **Flutter Packages** - Creating useful open-source Flutter libraries  
 
 ## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/basit228/) [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:basitraza228@gmail.com) [![Website](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)]([https://yourwebsite.com](https://syed-basit.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/basit228/) [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:basitraza228@gmail.com) [![Website](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)](https://syed-basit.netlify.app/)
